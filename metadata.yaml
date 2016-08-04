@@ -1,0 +1,34 @@
+_repo: Webster-s-Seventh-of-March-Speech-and-the-Secession-Movement-1850_1663
+_version: 0.0.1
+alternative_title: Webster's 7th of March Speech and the Secession Movement, 1850
+contributor:
+  commentator:
+    agent_name: Stephenson, Nathaniel W. (Nathaniel Wright)
+    alias: Stephenson, Nathaniel Wright
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '700'
+    url: http://www.gutenberg.org/2009/agents/700
+creator:
+  author:
+    agent_name: Foster, Herbert Darling
+    birthdate: 1863
+    deathdate: 1927
+    gutenberg_agent_id: '683'
+    url: http://www.gutenberg.org/2009/agents/683
+description: ''
+gutenberg_issued: '1999-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Webster, Daniel, 1782-1852. Seventh of March speech'
+- !lcsh 'Secession'
+- !lcc 'E300'
+- GITenberg
+title: Webster's Seventh of March Speech and the Secession Movement, 1850
+url: http://www.gutenberg.org/ebooks/1663
