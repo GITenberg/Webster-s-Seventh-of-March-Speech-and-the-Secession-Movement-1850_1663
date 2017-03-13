@@ -1,5 +1,5 @@
 _repo: Webster-s-Seventh-of-March-Speech-and-the-Secession-Movement-1850_1663
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Webster's 7th of March Speech and the Secession Movement, 1850
 contributor:
   commentator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '700'
     url: http://www.gutenberg.org/2009/agents/700
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Foster, Herbert Darling
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '683'
     url: http://www.gutenberg.org/2009/agents/683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1663#Webster-s-Seventh-of-March-Speech-and-the-Secession-Movement-1850
 gutenberg_issued: '1999-03-01'
 gutenberg_type: Text
 identifiers:
